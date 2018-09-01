@@ -1,0 +1,16 @@
+{
+  "identifier" : "https://geonlp.ex.nii.ac.jp/dictionary/geonlp/japan_city",
+  "internal_id" : 29,
+  "creator" : "geonlp",
+  "title" : "日本の郡・市区町村（2013年9月）",
+  "description" : "日本の郡や市区町村の辞書です。昭和57年以降に存在し、現在では統廃合によって消滅した自治体もできる限り収録しています。\r\n役所・役場の所在地、地方公共団体コード（6桁）およびJISX0402の自治体コード（5桁）を含みます。また、自由フィールドとして電話番号を含みます。これらの情報は、現存する自治体については地方自治情報センターのウェブページより取得し、消滅してしまった郡・市区町村については過去の自治体ウェブサイトやWikipediaの記述を手がかりに探した情報を組み合わせています。\r\n代表点の座標は、主に役所・役場の住所をジオコーディングにより取得していますが、旧住所などでジオコーディングできないものなど、一部は地図から取得しています。この作業は困難なため、700件以上の経緯度は空欄のままとなっています。\r\n\r\n次のサイトのアイコンを利用しています。\r\nMaps Icons Collection http://mapicons.nicolasmollet.com/",
+  "source" : "財団法人地方自治情報センター「地方公共団体コード住所」（https://www.lasdec.or.jp/cms/1,0,14.html）",
+  "spatial" : [ [ 123.00434, 24.23543 ], [ 145.5827, 45.4156 ] ],
+  "subject" : [ "市区町村/町", "市区町村/市", "市区町村/村", "行政地域/郡", "市区町村/区", "市区町村/特別区", "市区町村/政令市", "行政地域/総合振興局", "行政地域/振興局", "行政地域/支庁" ],
+  "issued" : "2013-09-12 17:48:04",
+  "modified" : "2014-03-10 09:53:10",
+  "report_count" : 0,
+  "record_count" : 4513,
+  "icon" : "https://geonlp.ex.nii.ac.jp/icon/user/geonlp/KbIeOW.png",
+  "url" : "https://geonlp.ex.nii.ac.jp/dictionary/geonlp/japan_city/geonlp_japan_city_20140310_u.zip"
+}

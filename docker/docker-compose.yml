@@ -1,0 +1,11 @@
+mariaDB:
+  image: mariadb
+  restart: always
+  environment:
+    MYSQL_USER: admin
+    MYSQL_PASSWORD: BwGz55yBfQOb
+    MYSQL_ROOT_PASSWORD: BwGz55yBfQOb
+  ports:
+    - "3306:3306"
+  volumes:
+    - "../sql/:/var/tmp/"
